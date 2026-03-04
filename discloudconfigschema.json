@@ -58,6 +58,9 @@
     "START": {
       "type": "string"
     },
+    "BUILD": {
+      "type": "string"
+    },
     "STORAGE": {
       "type": "string"
     },
